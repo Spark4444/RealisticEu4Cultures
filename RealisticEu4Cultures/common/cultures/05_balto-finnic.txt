@@ -1,0 +1,126 @@
+"finno-ugric" = {
+    graphical_culture = westerngfx
+     ingrian = {
+         male_names = {
+             Kahru Kahrulemb G�ktu Henes J�rre Jeansa Juvven John L�gon L�vrrohas Leamm� Mellet Mihka Igalemb Ihameel Ihar
+             Ihat�iv Ihavald Illimar Ilmalemb Ilmar Ilvelemb Jaolemb Kaalep L�ttelemb Manivald Mart Maru Mati Mats Meelis Mehis
+             Ohet�iv Ohevald Olev Onni Otelemb Ott Arnaz Arti Artis Arvo Aymort Azeg Biur Biyar Burmort Chichayka Chuga Dergun
+             Deryab Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Pyera Rateg Rayda Sarin Sektev Dobrinya Dokya
+             Dondy Gazheg Hulyen Inzhay Irter Lyneg Lysko Kezhapa Kezhay Kezhedey Setyamka Shindyay Shypicha Shyrpuzh Spira Syrka
+             Tikshayka Tuhan Tyueykezhut Tyutyuk Meltsayka Mordvinko Moksha Nalka Nuyaksha Nuyanza Nuyat Ovtay Pakstyan Paksyay
+             Paksyut
+         }
+         female_names = {
+             Aasa Ahma Aime Aimo Aita Aldi Ann Anni Annika Are Auli Aune Eha Elo Ere Helbe Hele Helgi Tiiu Tuuli Urve Viire Vilja
+             Virge Virve V�rvu �ie �nne �lane �lle Anava Ashava Asrava Avya Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa
+             Chindyayka Chinzhay Chitska Mel'shay Nezayka Nulzyava Nyal'ka Nyayka Nyumina Nyv Olota Ordava Oshama �shkam�shka
+             Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava
+             Yug�rka Anava Ashava Asrava Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva
+             Inyava Kanyava Kanyuva Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nuyanza
+             Nyal'ka
+         }
+     }
+     dynasty_names = {
+         # CKII - Lappish
+         "Ubmeje" "Nuor�ne" "G�jka" "Kaise" "Saiva" "Keite" "Sapmi" "Magga" "Guol�dat"
+         # Komi
+         "Azegid" "Gachegid" "Zhebegid" "Lunegid" "Zhunegid" "Irtegid" "Moshegid" "Nydogid" "Nylogid" "Ozhegid" "Odegid"
+         "Rategid" "Permyakid" "Yugra" "Syktyvkar"
+     }
+     finnish = {
+          primary = FIN
+          country = {  }
+          province = { local_has_carolean = yes }
+          dynasty_names = {
+              Bielke Horn Tott Fleming Paijkull Bonde Wrede Soop
+              Mannerheim Furuhjelm Aminoff Armfelt Carpelan Rehbinder Schulman
+          }
+          male_names = {
+              Eerikki Niklas V�in�m�inen Aato Fredrik Jani Aleksanteri Edvard Jaakko Juha Aapeli Alpertti Antero
+              Eino Erno Heikki Jooseppi Jyri Kaarle Kristian Lauri Mainio Mikael Onni Otso Paavo Petteri Ransu
+              Samuli Taavi Tauno Tuomas Valto Veli Vieno Vilhelmi Voitto Reino
+              Aatos Ahma Aimo Armas Arvo Asikko Ensio Haapa Hannu Havu Hintsa Ihanti Into Jalo Jurva
+              Kalevi Kettu Kolli Lalli Lauri Laurence Lemetti Kaleva
+              Mielitty Miemo Mikko Michael Oiva Onni Otso Pyry P�ivi� Pentti Reko Sampo Satajalka
+              Seppo Susi Tapani Terho Toivo Ukko Uoti Urho V�in� Satatieto
+              Valta Valto Veli Vesa Voitto Erkki Erik Kaarle Charles Johannes John Risto Christopher
+              Olaf Petri Peter Henri Henry Yrj� George Olavi
+              Valteri Walter Riku Richard Matti Matthew Jaakoppi Jacob Taisto Paavo Paul Aatso Adam Ahvo
+              Artur Asko Tuokko David Rieti Frederick Aarto
+              Kauro Gabriel Kuuti Knut Pekko Soini Sven Tuure Turo Tommo Tohmas Thomas
+          }
+          female_names = {
+              Tarja Aina Jaana
+              Aamu Aino Hell� Helmi Ilta Kaarina Catherine K�py Kielo Kukka Lauha Lempi Mahla Maija
+              Metta P�iv� P�ivi Pihla Pilvi Rauha Sisko Suoma Marja Mesi
+              Taimi Terhi Titti Tuija Tuovi Tuuli Tuulikki Tyyne Tyyni Vanamo Venla Mielikki Hertta
+              Inkeri Ilmatar Irene Irene Ilona Helen Kristiina Christina Loviisa
+              Elisabet Elisabeth Sohvi Sofia Auni Agnes Liekko Helen Kivutar Lemmikki Lyylikki Salme
+              Tuulitar Talvikki
+          }
+      }
+      karelian = {
+          primary = KRL
+          male_names = {
+              Mohkku Mokci N�hkol N�innas Njulgu Oav�n Orddot R�stos Riibma Ruigi S�rra Speaidna Viggu Kaarel Kaaren Kahus Kaido
+              Kalev Kalju Kaljuvald Kalle Kaomeel Karuvald Kaugemeel Kaupo Pihl Piho Pikne P�evalemb P�rt Raak Raho Rahuleid Sulev
+              Sutepelg Tambet Tarva Tarvet Dobrinya Dokya Dondy Gazheg Hulyen Inzhay Irter Lyneg Lysko Kezhapa Kezhay Kezhedey
+              Setyamka Shindyay Shypicha Shyrpuzh Spira Syrka Tikshayka Tuhan Tyueykezhut Tyutyuk Tugan Kezhevat Kichay Koksha
+              Kuaz Kudym-Osh Kya Kyldysin Malyaka Malyy Meltsayka Mosheg Nalka Turush Uchva Varaka Vechkas Velmayka Virdyan Viryas
+              Viryay Vokan Yirkap Ylvan Zarny Tugan Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Shoksha Syrka Tikshayka
+              Tyueykezhut Tylmache Tylze Tyushten Tyushtya Uzhara Varmanpaz
+          }
+          female_names = {
+              Nyayka Olota Ordava Oshama Parava Pekshayka Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava
+              Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka
+              Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga Utyayka Valdava Vergava Vezhav Vidyava
+              Virtyava Yalgava Litova Mastorava Noroava
+          }
+      }
+       estonian = {
+            primary = EST
+            dynasty_names = {
+                Bielke Horn Tott Fleming Paijkull Bonde Wrede Soop
+                Mannerheim Furuhjelm Aminoff Armfelt Carpelan Rehbinder Schulman
+            }
+            male_names = {
+                Aabel Aabraham Aadu Aare Aarne Aaron Ago Agu Ahti Ahto Aigar Ain Aivar Aivo Aksel Alar Alari Albert Aleks
+                Aleksander Allan Allar Alo Alvar Ando Andre Andreas Andres Andrus Anti Anton Ants Ardi Ardo Arno Arnold Arti
+                Artur Arved Arvi Arvo Asko August Edgar Eduard Eedo Eedu Eerik Eero Egert Egon Einar Eino Elias Elmar Elmo
+                Endel Endrik Enn Enno Ergo Erik Erki Erko Erlend Ermo Evald Evert Feliks Georg Gert Gunnar Gustav Hannes Hans
+                Hardi Harri Heigo Heiki Heino Heiti Hendrik Henn Henri Hillar Iisak Illar Illimar Ilmar Ilmo Imre Indrek Innar
+                Ivar Ivari Ivo Jaagup Jaak Jaakob Jaan Jaanus Jakob Janar Janek Janno Jass Joel Johannes Joona Joonas Joonatan
+                Joosep Juhan Juho Jukk Juss J�rgen J�ri J�rjo Kaarel Kaido Kajar Kalev Kaljo Kalju Kalle Kardo Karl Kaspar
+                Kaupo Kaur Kauri Ken Kermo Kert Kevin Koit Kristen Kristian Kristjan Kristo Kristofer Kuldar Kunnar Kusta
+                Kustas Kustav K�llo Laur Lauri Leevi Leho Lembit Lennart Luukas Maanus Maarjo Madi Madis Magnus Maido Mairo
+                Mait Marek Margo Margus Mario Mark Marko Markus Marten Marti Martin Mati Matteus Mattias Meelis Meeme Mehis
+                Mihkel Miikael Mikk M�rt Neeme Nigul Nigulas Niilo Nuut Olari Olavi Olev Oliver Oskar Ott Otto Paavo Paul
+                Paulus Peep Peeter Peetrus Priidu Priit Ragnar Raido Raigo Raiko Raimo Raimond Rain Rainer Rait Raivo Rando
+                Ranno Rasmus Raul Rauno Reedik Reigo Rein Reio Rene Richard Rihard Riho Riivo Risto Robert Robi Robin Roland
+                Roman Romet Roomet Rudolf Ruuben Ruudi Ruut R�nno Saamuel Sander Siim Siimeon Siimon Silver Sten Sulev Sven
+                Taaniel Taavet Taavi Taavo Taivo Tambet Tanel Tarmo Tarvi Tarvo Tauno Tauri Teet Tiidrik Tiit Tiitus Timmo
+                Timmu Timo Toivo Toomas Tormi Tuudor T�nis T�nu Udo Uku Uno Urmas Urmet Urmo Uudo Vahur Vaiko Vaino Valdeko
+                Valdo Valdur Valentin Vallo Valter Vambola Veiko Veljo Vello Verner Vidrik Viktor Viljar Viljo Ville Villem
+                Villu Voldemar Vootele V�ino �lari �llar �llo �lo �rjo
+            }
+            female_names = {
+                Aada Aasa Aet Age Agnes Aile Aili Aino Ainu Aire Airi Aita Aive Aleksandra Alina Andra Anete Angela Angelika
+                Ann Anna Anne Anneli Anni Annika Anu Asta Astrid Auli Aune Aurelia Ave Berit Birgit Brita Dagmar Diana Ebe Eda
+                Eeva Eevi Egle Eha Eili Eliisa Eliisabet Eliise Elina Elis Elle Ellen Elo Elvi Emma Endla Ene Eneli Epp Ere
+                Erika Esta Ester Eva Eve Evelin Gerli Greete Grete Hanna Hedi Heidi Heili Helbe Hele Helen Helena Heleri Helga
+                Helgi Heli Helina Helju Helle Helmi Helve Hiie Hilda Hilja Hille Iiris Ille Ilme Ilona Imbi Ines Inga Inge
+                Ingel Ingrid Inna Irene Iris Irja Irma Ivi Ivika Jaana Jaanika Jana Jane Janne Johanna Juta Kaarin Kadi Kadri
+                Kai Kaia Kaidi Kaie Kaili Kairi Kaisa Kaja Karin Karina Karmen Karoliina Karoliine Karolin Katariina Kati Katre
+                Katri  Katriin Katrin Keiu Kelli Kerli Kersti Kerstin Kertu Kirke Koidu Krista Kristel Kristen Kristi Kristiina
+                Kristin Kristina K�rt K�tlin K�lli K�llike Lagle Laine Laura Lea Leelo Lehte Leida Leili Lembi Lemme Lii Liia
+                Liidia Liilia Liina Liis Liisa Liisbet Liisi Liivi Lilian Lilli Linda Luule L��dia Maarika Maarja Made Madli
+                Mai Maia Maie Maila Maimu Maire Malle Mare Maret Margareeta Margaret Marge Margit Margot Mari Mari-Liis Maria
+                Marika Mariliis Marina Maris Marit Marje Marju Marleen Marta Marve Meeli Meelika Meelike Merike Merili Merilin
+                Merit Merje Merle Miia Miina Minna Mirjam Monika Moonika Nele Olli Paula Piia Pille Pilvi Piret Raahel Rahel
+                Raili Rebeka Reeli Reelika Reet Regina Reili Renate Riin Riina Riinu Rita Ruth Rutt Ruut Saara Saima Salme
+                Sandra Sigrid Siiri Silja Silvi Silvia Siret Sirje Sirli Susanna Taimi Talvi Tea Teele Terje Tiia Tiina Tiiu
+                Triin Triinu Tuule Tuuli Ursula Urve Vaike Valli Veronika Viia Viiu Viive Viivi Vilja Virge Virve �ie �nne
+                �nnela �lle
+            }
+        }
+}

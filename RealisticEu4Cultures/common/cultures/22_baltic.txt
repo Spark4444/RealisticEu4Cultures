@@ -1,0 +1,76 @@
+baltic	= {
+    graphical_culture = easterngfx
+
+    lithuanian = {
+        primary = LIT
+        male_names = {
+            Zygimantas Kazimieras Aleksandras Jonas Albertas Zygimantas Augustas Vytautas Jogaila Vladislovas
+            Algirdas Stanislovas Svitrigaila Mindaugas Albertas Andrius Antanas Aras Arturas Azuolas
+            Gediminas Giedrius Gintaras Henrikas Jonas Jonusas Juozapas Jurgis Kaributas Karolis Kristupas
+            Liudvikas Marijus Mykolas Paulius Petras Pranciskus Raimondas Ramunas Steponas Skirgaila Tomas
+            Vincentas Vilhelmas Vytenis Kestutis Viktoras Leonas Linas Bronislovas Darius
+        }
+        female_names = {
+            Agn� Morta Viltaut� Agn� Aldona Amalija Audra Aurelija Au�ra Austeja Barbora Daina Daiva Dalia Danute Diana Doroteja
+            Edita Egle Elena El�bieta Elze Emilija Ernesta Estera Gabija Gabriele Giedre Gintare Ieva Ilona Inga Irena Jadvyga
+            Janina Jelena Yelena Jolanta Julija Justina Kamile Karolina Katre Kotryna Kristina Laima Leja Lilija Lina Liucija
+            Liudvika Margarita Marija Marijona Melanija Migle Milda Monika Morta Ona Rasa Regina Rozalija Ro�e Ruta Sandra Saule
+            Smilte Sofija Solveiga Svajone Tatjana Ugne Urte Valerija Veronika Viktorija Vilhelmina Viltaute Vilte Vita Vitalija
+        }
+        dynasty_names = {
+            Ugandi Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
+            Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
+            # CKII
+            "Giedraitis" "Mantigirdaitis" "Chodkevicius" "Sudimantaitis" "Korybut" "Jogailaitis" "Gediminaitis"
+        }
+    }
+    latvian = {
+        primary = LTG
+        male_names = {
+            Aishno Ako Ankad Baise Balodis Bikshe Borut Bulei Butovit Cirulis Dangeruthe Darbeslave
+            Davins Demas Dobre Dovyat Dzintis Dausprungas Imanta
+            Elmede Erasts Erdzivil Galeine Gastile Gedere Gerden Gibedats Giemund Golovke Gotene Gunvald
+            Janis John Jaunule Jedetus Juvage Kage Likiik
+            Kaire Karijotas Karnak Kaupo Kerstigens Kiten Klavess Kodere Kuliens Kurlemuse Lammekinus
+            Litto Lonkogveni Manvydas Meinekinus Shutr
+            Mendune Nameisis Narvait Pliksov Pukiik Pukuveras Ringaudas Rushky Rusins Sabe Sargun Scurdo
+            Shvarnas Skornand Sprudeik Stegut Viesturs
+            Steikint Sviendorog Talivaldis Tautvila Traidenis Treniota Vaishvilkas Valikaila Vetseke
+            Visheiv Vishikut Vishly Vykantas Yudki
+        }
+        female_names = {
+            Agita Ausala Balba Bitens Brita Daira Darate Dardedze Dose Dzeguze Galene Greze Gunda Gundega
+            Imela Kordula Liga Maija Marite Naula Rasa Ruta Savna Viba Zigne Ieva
+        }
+    }
+
+    male_names = {
+        Algirdas Antanas Antavas Aras Arunas Azuolas Budrys Bukantas Butavas Butigeidis Butvydas
+        Daugvilas Daumantas Dausprungas Dravenis Erdenis Erdvilas Gedigaudas
+        Gediminas Gedivilas Gintaras Gintautas Girdenis Irmantas Jaunutis Jogaila Jovirdas Kantibutas
+        Karijotas Kesgaila Kestutis Korigaila Korybutas
+        Lasukas Lingvenis Liudas Lubartas Lutuveras Merkelis Mindaugas Minigaila Mantvydas Movkoldas
+        Narimantas Povilas Pukuveras Rimantas
+        Rimgaila Rimvydas Ringaudas Sarunas Skirgaila Songaila Svarnas Svitrigaila Tarvydas Tovtivilas
+        Traidenis Treniotas Vainius Vaisvilkas Valimantas Zygimantas
+        Vidmantas Vingoldas Virmantas Visvaldis Vizgirdas Vykintas Vytautas Vytenis Zivinbudas
+    }
+    female_names = {
+        Aldona Anele Audra Ausra Birute Dannila Danute Evalda Gaudimante Giedre Gintare Jevna Kenna
+        Mikova Roze Saule Svajone Vida Laima
+    }
+    dynasty_names = {
+        Ugandi Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
+        Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
+        # CKII
+        "von Finckenstein" "Wilks" "Klakis" "Luks" "Kuilis" "Kalabijjan" "von Preussen" "von K�nigsberg"
+        "Jankowskie" "von Danzig" "von Seidlitz" "von Marienburg" "Konopacki"
+        "von Memel" "von Kurs" "von Rohrbach" "Penikis" "Tontegode" "Vidins" "Draguns" "Sirkants"
+        # Ugric Baltic
+        "Karasi" "Ingrija" "Saaremaa" "Revala" "Virumaa" "L��nemaa" "Vaiga" "Ingeri" "Ingeri" "Livo" "Harjumaa" "Virumaa"
+        "Ridala" "Saaremaa" "Vaiga" "Turaida"
+    }
+    pruthenian = {
+
+    }
+}

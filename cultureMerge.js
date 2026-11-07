@@ -8,8 +8,8 @@ const __dirname = dirname(__filename);
 const gameProvincesPath = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Europa Universalis IV\\history\\provinces";
 const modProvincesPath = path.join(__dirname, "RealisticEu4Cultures", "history", "provinces");
 const finalProvincesPath = gameProvincesPath;
-const source = ["chahar", "khalkha"];
-const target = `mongol`;
+const source = ["astrakhani"];
+const target = `tatar`;
 
 try {
   // Read all txt files only inside the game provinces directory

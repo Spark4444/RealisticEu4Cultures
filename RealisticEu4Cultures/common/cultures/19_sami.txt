@@ -1,0 +1,29 @@
+sapmi = {
+    graphical_culture = westerngfx
+    sapmi = {
+              primary = SMI
+              male_names = {
+                  Baeivvet Biejan Bij�s Bilzi D�vgon Dutt� G�ivvas Elmar Hain Haljas Igap�iv Ihalemb Kahar Eeri Heameel Heat�iv
+                  Hoovat�iv Hurmas Hurmet�iv H�imulemb H�valemb H�vameel H�vat�iv T�nn Uku Vootele V�ino V�rvo �igemeel �lo K�llelemb
+                  Leet�iv Lembit Leppet�iv Lible Vambola Vandemeel Varjelemb Veli Vello Venno Vesse Vihavald Vililemb Vilimeel Andyamo
+                  Nuyaksha Nuyanza Nuyat Nydog Nylog Odeg Onika Osh Oshmar Oshypel Ovtay Ozheg Ozhmeg Arnaz Arti Artis Arvo Aymort
+                  Azeg Biur Biyar Burmort Chichayka Chuga Dergun Deryab Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka
+                  Pyera Rateg Rayda Sarin Sektev Dobrinya Erziya Inzhay Kezhapa Kezhay Kezhedey Kezhevat Kichay Kubrat Malyaka Malyy
+                  Koshel Murunza Naruchad Nishkepaz Orunza Puresh Purysho Saksa Shkay Surt Tul Tunya Tutyra
+              }
+              female_names = {
+                  M�idna N�sti Nan� Nj�ves Oaj� S�r�hkk� Sealgg� Sear� Soab� Soj� Suoinn� Suonjar Uks�hkk� Maija Mari Marja Meeli
+                  Niine Ninni Oie Pilve P�ivi P�im Salme Sirje S�de Taimi Talvi Heli Helina Helmi Helve Hiie H�marik H��p Ida Ilme
+                  Ilmi Ilo Kai Kaili Kaja Kalli Kare Tundava Tundya Unzhutka Upurga Utyayka Valdava Vergava Vezhav Vidyava Virtyava
+                  Yalgava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nyal'ka Nyayka Nyumina Nyv Olota Ordava Oshama �shkam�shka
+                  Parava Pekshayka Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Rayda Ruzava Sanal'ka Sangasa Sernyava
+                  Serzhay Setyamka Seyamka Shochynava Shonzhava Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka
+                  Tekay
+              }
+              dynasty_names = {
+                  Ubmeje Nuor�ne G�jka
+                  Magga Guol�dat Yugra
+                  Kaise Saiva
+              }
+          }
+}

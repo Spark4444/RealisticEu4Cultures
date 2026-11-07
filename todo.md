@@ -6,3 +6,5 @@
 6. split off siberian kyrgyz
 7. add old prussian
 8. fix finno ugric tribes in muscowy
+9. fix andalusian
+10. fix anatolia

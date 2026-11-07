@@ -1,0 +1,44 @@
+hungarian = {
+    graphical_culture = westerngfx
+    hungarian = {
+              primary = HUN
+              dynasty_names = {
+                  B�thory Hunyadi Szapolyai R�k�czy Bocskai Bethlen Alm�sy Andr�ssy Batthy�ny Cs�ky Dessewffy
+                  Erdody Eszterh�zy Festetics Hajd� K�rolyi Kun Magyary Per�nyi R�nai Sz�chenyi Szepessy
+                  Th�k�ly Tisza Zr�nyi Teleki
+                  Majl�th D�czy Dob� Koh�ry Orczy Frankopan Garay Mikes Sz�csi Imreffy N�dasdy Rh�dey
+
+                  #CK2
+                  Zrinski Hadik Both "R�k�czi" Forg�ch Cseszneky Derencs�nyi D�csey R�vay Esterh�zy
+                  K�llay Kem�ny Thurz� Zichy
+              }
+              male_names = {
+                  Ul�szl� L�szl� Lajos Albert J�nos M�ty�s Zsigmond Andr�s K�roly Istv�n B�la Anaszt�z Barnab�s
+                  Boldizs�r D�vid D�m�t�r Edv�rd Ern� Ferenc G�bor Gy�rgy Izs�k Jen� J�zsef K�lm�n K�zm�r L�rinc
+                  Mikl�s Oszk�r Ott� Patrik P�ter Simon Tam�s Vencel
+                  �bel �d�rn �goston �lmos �rp�d �d�n Otto Alajos Ambrus Andr�s Andrew Antal Attila B�lint
+                  Albert Bal�zs Benedek Benedict Bern�t Bernard Bert�k Bertalan Boldizs�r Bonuslo
+                  Borisz Boris Cs�k Csaba Csongor D�nes D�m�t�r Dezs� Domoszl� Don�t Elek Elem�r Endre Ern�
+                  Philip Ferenc Francis Frigyes G�bor G�briel Gabriel G�sp�r Caspar G�za Gazsi
+                  Gell�rt Gergely Gy�rgy George Gyula Imre Istv�n Stephen Izs�k J�kob Jacob J�nos John J�zsef
+                  Joseph Jen� K�lm�n K�roly Charles Konr�d Konrad Korn�l Krist�f L�szl� L�z�r L�rinc Lajos
+                  Lampert Levente Luk�cs M�rk Marcus M�rton Martin M�t� M�ty�s Matthew M�ric M�zes Mih�ly
+                  Michael Louis Ful�p B�la
+                  Mikl�s N�ndor Orb�n Oszk�r P�l Paul P�ter Peter S�muel Samuel S�ndor Alexander Salamon
+                  Szilveszter Silvester T�dor Tacsony Tam�s Thomas Tibor Tivadar Vazul Vencel Vaclav Vilmos
+                  Zolt�n Zsigmond Sigmund Zsolt Saul Soma
+              }
+              female_names = {
+                  �gnes Agnes �va Eva Adelaida Adelaide Ag�ta Agatha Am�lia Amelia Angyalka Anik� Aranka
+                  Bertha Borb�la Csilla Csillag Czenzi Dorottya Dorothy Edit Edith Em�ke Emese Erika Erzs�bet
+                  Elisabeth Eszter Berta Anna
+                  Etel Euphemia Euphemia Gizella Gisela Gy�rgyi Georgia Hajnal Hedwig Hedwig Ibolya Ildik�
+                  Ir�n Irene J�cinta J�zsa J�lia Juliana Jol�n Judith Judith Kamilla Camilla Katalin
+                  Kinga Kl�ra Clara Catherine Illona
+                  Konstancia Constance Krisztina Christina Kunigunda Kunigunde Luca M�ria Maria M�rta Martha
+                  Magdolna Magdalena Margar�ta Margaret Margit Matild Matilda Nat�lia Natalia Odola Orsolya
+                  Panni Piroska R�zsa Rosa S�ra Sarah Sarolt Zsuzsa Zsanett
+                  Skolasztika Sophia Sophia Tund�r Terezia Teresa Viola Viola Vir�g Zolt�na Zs�fia Sophia
+              }
+    }
+}
