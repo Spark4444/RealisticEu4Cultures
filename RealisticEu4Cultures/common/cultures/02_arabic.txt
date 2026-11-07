@@ -32,4 +32,87 @@ arabic = {
              "de Rohan-Polduc" "da Fonseca"
          }
      }
+     maghrebi = {
+        primary = MOR
+          dynasty_names = {
+              "Marinid" "Saadi" "al-Shabani" "Alaouite" Wattassid "al-Dila'i" "al-Tadsi" "al-Ilighi"
+          }
+          male_names = {
+              Muhammad Ahmad 'Abdall�h 'Abd al-Malik 'Al� 'Uthm�n 'Abd al-Haqq Isma'�l Yahy� 'al-Wal�d al-Mustad�
+              al-Rash�d Hish�m Idr�sid Sulaym�n Zayd�n Zayn 'Abd ar-Rahm�n al-Yaz�d Mansur Muhraz Nasir Ab� Faris
+              Ab� Merwan al-Talib Hammada Hasam Hashim Ibrahim Ja'far Maimun Maslama Said Umar Y�suf Ataullah
+              Rasul Zulfiqar Abbas Jabril Abakada Abazza Abbas Abbas Abdul Abdul Abdul-Azeem Abdul-Haleem Abdul-Kareem
+              Abdul-Rahman Abdullah Abdullah Abidin Adal Adam Adam Aderbal Adergazuz Adherbal Admer Adrir Adum Afaghis Afalawas
+              Afalku Afer Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul Ahamatu Aheyyad Ahmad
+              Ahmad Ajdir Ajeddig Akaday Akateiaji Akli Akorakor Aksel Caecilius Aksil Caecilius Akutla Akzer Al'a'addin Ali Ali
+              Alyamas Amawal Amayas Amaz'uz' Ambay Amdegh Amellal Amennay Ameska Amessan Amin Amma Ammuc Amray Amri
+          }
+          female_names = {
+              Thamina Widad Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha
+              Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda Hadiya Hawwa Hemu Herru Iija Iiju Itt�
+              Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa
+              Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica
+              Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda Zunagha Zwina Zwira
+          }
+     }
+     "syro-egyptian" = {
+        primary = MAM
+          dynasty_names = {
+              "Burji" "Alawiyya" "Bahri"
+              Katkhuda Abaza Qasimiyya Qitas al-Qazdughli Yakubid Hassanid
+          }
+          male_names = {
+              Muhammad Ahmad Q�nsawh T�m�n Bay In�l Khusqadam 'Abd al-'Aziz al-Musta'in al-Nasr Faraj Barsbay
+              Q�yit Bay Shaik al-Mahmudi Timurbugh� 'Uthman Yalbay J�nbul�t Y�suf Barq�q 'Al� Baybars H�jj�
+              Bakr al-Hasan Isma'�l K�j�k S�lih 'Abd al-Malik Basir Fadl Ghayth Hatim Ilyas Jabir Nadim Nizar
+              Sayyid Yunus Jaqmaq Qasim Sa'di Sha'b�n Ab�
+          }
+          female_names = {
+              Shahira Yusra Asma Abda Ahu Aiza Aliyah Butayna Daniyah Dima Fahra Fahriya Fatima Gamila Ghada Habiba Huda Ibtisam
+              Isra Karima Kera Khadija Layla Maha Malika Mariam Maria Munya Munia Nadia Naila Nur Rafiqa Rahat
+              Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
+          }
+     }
+    mesopotamian = {
+        primary = IRQ
+          dynasty_names = {
+              "Saadun" "Jalili" "Hasanid" "Sabah" Javid
+              "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
+          }
+          male_names = {
+              Sulayman 'Abdall�h 'Al� 'Umar D�'�d Hasan Sa'�d 'Abbas 'Abd al-Karim 'Abd al-Rahman Anwar Atuf Bakr
+              Faruq Fouad Hakim Harun Hikmat Hisham Husayn Isma'il Jafar Jamaal Karim Khalil Mal�k Mirza Muhammad
+              Qasim Rash�d Rusul Shimun Tar�q Usama Yasir Yusuf Zaid Z�yad Zulqifar Fahd Mustafa
+          }
+          female_names = {
+              Badr Fatimah Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
+              Jamila Khadija Majida Mariam Maria Nabila Nura Radiya Rana Sacmis Safiya
+              Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra Zahra
+          }
+    }
+    peninsular = {
+        primary = ADE
+          dynasty_names = {
+              "Rasulid" "Tahiride" "Jabrid" "al-Qasimi"
+              "Nabhani" "Yaruba" "Usfurid" "Jarwanid"
+          }
+          male_names = {
+              Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
+              'Abdullah Turki Faisal Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir
+              Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
+              Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris
+              Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
+              Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib
+              Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+              Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf
+              Joseph Zeyd
+          }
+          female_names = {
+              Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand
+              Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+              Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah
+              Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+              Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+          }
+    }
 }

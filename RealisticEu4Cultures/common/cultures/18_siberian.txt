@@ -1,0 +1,30 @@
+siberian = {
+    graphical_culture = muslimgfx
+    "siberian-kirgiz" = {
+         male_names = {
+             Abdul-Karim Abdul-Latif Abdul-Rash�d Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Tem�r Buzan
+             Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Tem�r Eljigidey Esen Buqa Ilbars Ilyas Ismail
+             Khabul Khizr K�nchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan
+             Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu
+             Tem�r Tughlugh Tem�r Uwais Yasa'ur Yesu Mongke Yesun Tem�r Yunus Tarmashirin Neg�bei Qara Kebek
+             Chagatay
+         }
+         female_names = {
+             Mandughai Hoelun Tam�l�n Kokachin Beki Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka
+             Doquez-khatum Goland Ho'elun Khultulun  Qamish Orqina Sorghaghtani Toregene "Fatima" "Ibtisam" "Jalila" "Janan" Sakina
+         }
+     }
+      yakut = {
+           dynasty_names = {
+               Badarhan Tabangut
+           }
+           male_names = {
+               Aiaan Atch-ytagyn Giv-ynkeev Nute-nli Gyrgol-gyrgyn Tanat Darkhan Dokhsun Duolan Dygyn Dulustaan Kyytymei
+               Kencheeri Keskil Manchaary Michil Modun Nurgun Nuolan Sulustaan Tolluman Timir Tygyn Tuskul Uolan Ergis
+               Erchim Erkin Yrgel Kharyskhan
+           }
+           female_names = {
+               Naryiaana Aiyyna Kydaana Tuskulaana Khaarchaana Tem�len B�rte Mandukhai Samar Zaufishan
+           }
+       }
+}

@@ -1,0 +1,34 @@
+karluk = {
+    graphical_culture = muslimgfx
+    uzbehk = {
+         primary = SHY
+         male_names = {
+             Abdul-Aziz Abdul-Karim Abdul-Mumin Abdul-Rahim Abdulla Abu Said Abu'l-Feiz Abu'l-Ghazi Abu'l-Khayr
+             Abu'l-Mansur Agatay Alim Anusha Arab Muhammad Avanesh Bahadur Bakht Baqi Muhammad Budjuga Bureke
+             Djuchi Dost Habash Hadji Hadji Muhammad Hassan Quli Haydar Imam Quli Ilbars Irdana Isfandiyar Isim
+             Janibek Kal Khudayar Khudaydad Kochkunju Muhammad Muhammad Amin Muhammad Hakim Muhammad Rahim Nadir
+             Muhammad Narbuta Navruz Ahmad Niyaz Pir Muhammad Sanjar Sevinch Shadi Shahmurad Shahrukh Shaykh
+             Subhan Quli Sufyan Suleyman Tahir Timur Ubaydulla Umar Vali Vali Muhammad Yadgar Daniyal Haidar
+             Iskandar
+         }
+         female_names = {
+             Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene
+         }
+     }
+     uyghur = {
+         primary = KAS
+         male_names = {
+             Abdul-Karim Abdul-Latif Abdul-Rash�d Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Tem�r Buzan
+             Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Tem�r Eljigidey Esen Buqa Ilbars Ilyas Ismail
+             Khabul Khizr K�nchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan
+             Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu
+             Tem�r Tughlugh Tem�r Uwais Yasa'ur Yesu Mongke Yesun Tem�r Yunus Chagatay Tarmashirin Neg�bei Qara
+             Kebek Yahballaha
+         }
+         female_names = {
+             Sakina Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun
+             Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene "Fatima" "Ibtisam" "Jalila" "Janan"
+             "Layla" "Sakina" "Sharifa"
+         }
+     }
+}

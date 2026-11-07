@@ -1,0 +1,77 @@
+mongol = {
+    graphical_culture = muslimgfx
+
+     mongol = {
+         primary = KHA
+         male_names = {
+             Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt� Dayan
+             Delbeg Ejei Elbeg Engke G�y�k G�n Gulichi Irinchibal Jorightu Kublai K�ke Ligdan Mark�rgis M�ngke
+             Manduulun �ljei �r�g Oyiradai �g�dei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem�r Toghun
+             Tolui Toq Uskhal Yes�n Ariq Batu Eljigidei Joichi Darayisung T�men
+         }
+         female_names = {
+             Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun
+             Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene
+         }
+         dynasty_names = {
+             # CKII
+             "Onggirat" "Naiman" "Kereyid" "Sartaq" "Mengu-Timur" "Uriankhai" "Bujakhin" "Besud" "Noyan"
+             "Jochid" "Chagatayid" "Borjigin" "Chupanid" "Injuid" "Toluid" "Ganbold" "Bolormaa" "Batbayar"
+             "Bat-Erdene" "Otgonbayar" "Enkhtuyaa" "Gantulga" "Nerg�i" "Lkhagvas�ren" "Enkhjargal"
+             "Ganzorig" "Narantsetseg" "P�revs�ren" "Ganbaatar" "M�nkhtsetseg" "M�nkhbat" "M�nkh-Erdene"
+             "Jalair" "Sartuul" "Olkhunut" "Khatagin" "Iljigin" "Tsookhor" "Qarakhanid"
+         }
+     }
+     chahar = { # now korchin
+         primary = KRC
+         male_names = {
+             Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt� Dayan
+             Delbeg Ejei Elbeg Engke G�y�k G�n Gulichi Irinchibal Jorightu Kublai K�ke Ligdan Mark�rgis M�ngke
+             Manduulun �ljei �r�g Oyiradai �g�dei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem�r Toghun
+             Tolui Toq Uskhal Yes�n Ariq Batu Eljigidei Joichi Darayisung T�men
+         }
+         female_names = {
+             Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun
+             Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene
+         }
+     }
+     khalkha = {
+         primary = KLK
+         male_names = {
+             Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt� Dayan
+             Delbeg Ejei Elbeg Engke G�y�k G�n Gulichi Irinchibal Jorightu Kublai K�ke Ligdan Mark�rgis M�ngke
+             Manduulun �ljei �r�g Oyiradai �g�dei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem�r Toghun
+             Tolui Toq Uskhal Yes�n Ariq Batu Eljigidei Joichi Darayisung T�men
+         }
+         female_names = {
+             Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun
+             Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene
+         }
+     }
+     oirats = {
+         primary = ZUN
+         male_names = {
+             Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen G�shi Lha-bzang Khara Khula Kho Sengge Tseten
+             Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai B�ki Bayan Dayan Hami Molon Oori
+             Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orl�k
+         }
+         female_names = {
+             Hoelun Tam�l�n Sorghaghtani Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene
+         }
+     }
+     buryat = {
+          primary = BRT
+          dynasty_names = {
+              Badarhan "Chagatay" "Edig�id" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+          }
+          male_names = {
+              Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligt� Dayan Darayisung
+              Delbeg Ejei Elbeg Engke G�y�k G�n Gulichi Irinchibal Jorightu Kublai K�ke Ligdan Mark�rgis M�ngke Mulan
+              Manduulun �ljei �r�g Oyiradai �g�dei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Tem�r Toghun T�men
+              Tolui Toq Uskhal Yes�n Ariq Batu Eljigidei Joichi
+          }
+          female_names = {
+              Tem�len B�rte Mandukhai Samar Zaufishan
+          }
+      }
+}

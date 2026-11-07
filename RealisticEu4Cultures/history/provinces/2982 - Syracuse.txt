@@ -2,7 +2,7 @@
 
 owner = SIC
 controller = SIC
-culture = neapolitan 
+culture = "sicilian-neapolitan" 
 religion = catholic 
 hre = no 
 base_tax = 4

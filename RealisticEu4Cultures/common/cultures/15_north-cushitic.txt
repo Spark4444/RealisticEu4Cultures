@@ -1,0 +1,6 @@
+"north-cushitic" = {
+    graphical_culture = africangfx
+    beja = {
+        primary = BEJ
+    }
+}

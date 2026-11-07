@@ -234,7 +234,6 @@ latin = {
     }
     
     # French cultures
-    graphical_culture = westerngfx
     # Merge french with  norman and burgundian and walloon
      cosmopolitan_french = {
 
@@ -288,43 +287,6 @@ latin = {
              Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel Isabella Elisabeth Joan Joanna
              Juliana Mahaut Margaret Mary Maria Maud Matilda Philippa Sybilla Sibylla
          }
-     }
-     dynasty_names = {
-         "de Valois" "de Bourbon" "de la Tour" "d'Anjou"
-         "de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
-         "de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
-         "de Castellane" "d'Auvergne" "de Montb�liard" "de Metz"
-         #CKII Frankish
-         "de Laval" "de la Tour du Pin" "de La Tr�moille" "de Cr�quy" "de Broglie"
-         "de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
-         "de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
-         "de Barrau" "de La Fayette" "d'Armagnac" "de Roug�" "du Quenoy" "de Ficquelmont"
-         "de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
-         "de Vaudemont" "de Nicola�"
-     }
-     male_names = {
-         �douard �rrard �tienne Ad�mar Adrien Aimery Alain
-         Aldebert Ald�ric Alphonse Amaury Am�d�e Ancel Andr� Antoine Archambaud Arnaud
-         Arnault Arnoul Aubry Aymar Barth�l�mi Baudouin Beno�t B�renger Bernard Bertrand Bohemond
-         Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques Fran�ois
-         Fr�d�ric Gaucher Gaucelin Gauthier Geoffroi G�raud Gilbert Gilles Godefroi
-         Guichard Guiges Guilhem Guillaume Guy H�lie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques
-         Jaufr� Jaspert Jean Jourdain Julien L�on L�onard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
-         Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thi�baut
-         Thierry Thomas Valeran Yves
-     }
-     female_names = {
-         �l�onore �lodie �tiennette Ad�le Adalmode Adelaide Adelinde
-         Agn�s Al�arde Alice Ali�nor Agathe
-         Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde
-         B�atrice B�atrix Belleassez Beno�te B�reng�re
-         Berthe Blanche Bonne Bourgogne Bourguigne C�cile Cath�rine
-         Charlotte Constance Denise Douce Echive Eglantine
-         Elisabeth Emma Ermengarde Ermessinde Esclarmonde
-         Euphrosine Eustachie Eve Gerberge Gis�le Guillaumette H�loise Helvis Hodierne Ide Ild�garde
-         Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
-         Mascarose Mathilde M�lisande M�lisende M�lusine P�ronelle Pernelle Perinne Pernette Plaisance
-         Raymonde Sarrazine Sol�ne Sophie St�phanie Sybille Tiburge Valence Yolande
      }
 
     # Romanian
@@ -384,7 +346,7 @@ latin = {
         primary = VEN
        }
        # Neapolitan + Sicilian
-       neapolitan = {
+       "sicilian-neapolitan" = {
         primary = NAP
        }
        dalmatian = {

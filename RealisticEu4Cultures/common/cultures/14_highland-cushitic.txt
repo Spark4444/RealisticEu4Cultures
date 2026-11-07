@@ -1,0 +1,19 @@
+"highland-cushitic" = {
+    graphical_culture = africangfx
+    sidamo = {
+         primary = KAF
+
+         male_names = {
+             "Minjo" "Iy�s�" "Taqla H�ym�n�t" "Sal�m�n" "Y�hannes" "Hezqey�s" "Zar'a Y�qob" "Ba'eda M�ry�m"
+             "Quastant�n�s" "'Amda Sey�n" "N�'�d" "Lebna Dengel" "Gal�wd�w�s" "M�n�s" "Sarsa Dengel" "Y�'qob" "S�seny�s"
+             "F�s�ladas" "T�w�fl�s" "Y�st�s" "Y�nas" "D�w�t" "'Amsa G�y�rg�s" "Tuqla G�y�rg�s" "Demetros" "G�y�rg�s"
+             "Fiqtor" "Menas" "Marqos" "Hamalmal" "Saga Krestos" "Malta Krestos" "F�s�l" "'Endrey�s" "Yeshaq" "Mika'el"
+             "Amda Seyon" "Antenatewos" "Welde Giyorgis" "Mika'el Sehul" "Gusho" "Wand Bewossen" "Haile" "Wolda Gabrael"
+         }
+         female_names = {
+             Abeba Hagos Tenagne Habesha Abeba Abrihet Adanech Adina Alaworld Alitash Amhara Ayana Bathsheba Bekele
+             Belkis Berhane Berta Desta Dilla Falasha Falashina Fana Fannah Genat Hagos Jahzara Jazarah Kayla Kelile
+             Kelyle Keren Kess Kifle
+         }
+     }
+}
