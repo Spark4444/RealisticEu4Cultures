@@ -1,0 +1,32 @@
+vasconic = {
+    graphical_culture = westerngfx
+
+    country = { }
+    basque = {
+        country = { }
+        primary = NAV
+        dynasty_names = {
+            "de Navarra" "de Beaumont" "de Ler�n" "de Monteagudo" Escors
+            # CKII
+            "de Haro"
+        }
+        male_names = {
+            Enrique Carlos Francisco Juan Luis Gast�n Pedro Buenaventura Francisco Godofredo Jaime Lanzarote
+            Mart�n Sancho Garc�a Felipe Teobaldo Alfonso Agust�n Alejandro �lvaro Andr�s Antonio Bernardo C�sar
+            Crist�bal Diego Esteban Fernando Gaspar Jos� Melchor Nicol�s Sim�n Leonel
+            Alfontso Alphonse Alvar Oliver Antso Sancho Aznar Aznar Belasko Vasco Bermudo Vermudo
+            Bernard Diego Diaco Donato Donatus Egidio Egidius Eneko Inigo Erramun Raymond Fernando
+            Fortun Galindo Galindo Gartzia Garcia Gilen William Gontzal Gonzalo Herramel Joanes John
+            Lope Lupo Luis Louis Manrike Amalric Mart�n Martin Munio Munio Nu�o Nuno Obeko Obeko Ordo�o
+            Ordono Pelaio Pelagius Piarres Peter Ramiro Ramiro Rodrigo Roderick Vela Vela Ximeno Simon
+            Zentulo Centule Ladron Ferdinand Bernart
+        }
+        female_names = {
+            Juana Catalina Leonor Blanca
+            Aines Agnes Aldontza Aldonza Andregoto Antsa Sancha Belaskita Berengaria Berengaria Blanka
+            Blanche Elbira Elvira Eliza Emili Emily Estefania Stephania Joana Joan Konstantzia Constance
+            Maior Mayor Maria Maria Mentzia Mencia Munia Munia Nu�a Oneka Oneka Oria Plazentzia
+            Teresa Teresa Toda Toda Urraka Urraca Ximena Ximena Plaisance
+        }
+    }
+}

@@ -1,0 +1,393 @@
+latin = {
+    graphical_culture = westerngfx
+
+    country = { }
+
+    # Iberian cultures
+    # Castilian is merged with leonese
+    castillian = {
+        country = { }
+        primary = CAS
+        dynasty_names = {
+            "de Trast�mara" "de Guzm�n" "�lvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+            T�llez-Gir�n "Manrique de Lara" "de �valos" Enr�quez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcal�"
+            #CK2
+            "de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
+            "de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
+            Z��iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+        }
+        male_names = {
+            Enrique Fernando Juan Felipe Alfonso Carlos Sancho Ramiro Pedro Alonso �lvaro Baltasar
+            Bernardo Bertr�n Hernando
+            Cristobal Diego Domingo Esteban Fadrique Francisco Garc�a G�mez Gonzalo Gutierre Hermenegildo
+            Ignacio La�n Lope Miguel Nu�o Od�n Ram�n Rodrigo Tom�s Valeriano
+            Alfonso Alphonse Alonso Alphonse �lvar Oliver �lvaro Oliver Bermudo Vermudo Diego Diaco
+            Henry Fadrique Frederick Felipe Philip Fernando Ferdinand Fruela Froila Garc�a Garcia Gil
+            Egidius G�mez Gomez Gonzalo Gonzalo Guill�n William Guillermo William Gutierre Walter Juan
+            Lope Lupo Luis Louis Manrique Amalric Mart�n Martin Munio Munio Nu�o Nuno Ordo�o Ordono
+            Obeko Pedro Peter Pelayo Pelagius Ramiro Ramiro Rodrigo Roderick Salvador Sancho Sancho
+            Suero Tello Vela Vela Suero Oveco John Enrique
+        }
+        female_names = {
+            Aldonza Aldonza Anderquina Beatriz Beatrice Berenguela Berengaria Blanca Blanche Constanza
+            Constance Elvira Elvira Estefan�a Stephania Fronilda Fronilde Gontroda Gotruda In�s Agnes
+            Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda Mar�a Maria Marina Marine
+            Mayor Mayor Menc�a Mencia Milia Emily Sancha Sancha Teresa Teresa Toda Toda Urraca Urraca
+            Isabel
+        }
+    }
+    mexican = {
+        primary = MEX
+        dynasty_names = {
+            "de Trast�mara" "de Guzm�n" "�lvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+            T�llez-Gir�n "Manrique de Lara" "de �valos" Enr�quez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcal�"
+            #CK2
+            "de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
+            "de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
+            Z��iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+        }
+        male_names = {
+            Enrique Fernando Juan Felipe Alfonso Carlos Sancho Ramiro Pedro Alonso �lvaro Baltasar
+            Bernardo Bertr�n Hernando
+            Cristobal Diego Domingo Esteban Fadrique Francisco Garc�a G�mez Gonzalo Gutierre Hermenegildo
+            Ignacio La�n Lope Miguel Nu�o Od�n Ram�n Rodrigo Tom�s Valeriano
+            Alfonso Alphonse Alonso Alphonse �lvar Oliver �lvaro Oliver Bermudo Vermudo Diego Diaco
+            Henry Fadrique Frederick Felipe Philip Fernando Ferdinand Fruela Froila Garc�a Garcia Gil
+            Egidius G�mez Gomez Gonzalo Gonzalo Guill�n William Guillermo William Gutierre Walter Juan
+            Lope Lupo Luis Louis Manrique Amalric Mart�n Martin Munio Munio Nu�o Nuno Ordo�o Ordono
+            Obeko Pedro Peter Pelayo Pelagius Ramiro Ramiro Rodrigo Roderick Salvador Sancho Sancho
+            Suero Tello Vela Vela Suero Oveco John Enrique
+        }
+        female_names = {
+            Aldonza Aldonza Anderquina Beatriz Beatrice Berenguela Berengaria Blanca Blanche Constanza
+            Constance Elvira Elvira Estefan�a Stephania Fronilda Fronilde Gontroda Gotruda In�s Agnes
+            Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda Mar�a Maria Marina Marine
+            Mayor Mayor Menc�a Mencia Milia Emily Sancha Sancha Teresa Teresa Toda Toda Urraca Urraca
+            Isabel
+        }
+    }
+    platinean = {
+        primary = LAP
+        dynasty_names = {
+            "de Trast�mara" "de Guzm�n" "�lvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+            T�llez-Gir�n "Manrique de Lara" "de �valos" Enr�quez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcal�"
+            #CK2
+            "de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
+            "de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
+            Z��iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+        }
+        male_names = {
+            Enrique Fernando Juan Felipe Alfonso Carlos Sancho Ramiro Pedro Alonso �lvaro Baltasar
+            Bernardo Bertr�n Hernando
+            Cristobal Diego Domingo Esteban Fadrique Francisco Garc�a G�mez Gonzalo Gutierre Hermenegildo
+            Ignacio La�n Lope Miguel Nu�o Od�n Ram�n Rodrigo Tom�s Valeriano
+            Alfonso Alphonse Alonso Alphonse �lvar Oliver �lvaro Oliver Bermudo Vermudo Diego Diaco
+            Henry Fadrique Frederick Felipe Philip Fernando Ferdinand Fruela Froila Garc�a Garcia Gil
+            Egidius G�mez Gomez Gonzalo Gonzalo Guill�n William Guillermo William Gutierre Walter Juan
+            Lope Lupo Luis Louis Manrique Amalric Mart�n Martin Munio Munio Nu�o Nuno Ordo�o Ordono
+            Obeko Pedro Peter Pelayo Pelagius Ramiro Ramiro Rodrigo Roderick Salvador Sancho Sancho
+            Suero Tello Vela Vela Suero Oveco John Enrique
+        }
+        female_names = {
+            Aldonza Aldonza Anderquina Beatriz Beatrice Berenguela Berengaria Blanca Blanche Constanza
+            Constance Elvira Elvira Estefan�a Stephania Fronilda Fronilde Gontroda Gotruda In�s Agnes
+            Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda Mar�a Maria Marina Marine
+            Mayor Mayor Menc�a Mencia Milia Emily Sancha Sancha Teresa Teresa Toda Toda Urraca Urraca
+            Isabel
+        }
+    }
+    aragonese = {
+        country = { }
+        primary = ARA
+        dynasty_names = {
+            "d'Arag�" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
+            #CK2
+            "de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
+            "de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
+            Z��iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+        }
+        male_names = {
+            Alfons Alphonse Arnau Arnold Artau Artal Berenguer Berengar Berenguer-Ramon Bernat Bernard
+            Bernat-Guillem Dalmau Ermengol Ermengaud Felip Philip Ferran Ferdinand Frederic Frederick
+            Gausfred Godfrey Gerard Gerard Gombau Guerau Gerald Guifr� Wilfred Guillem William
+            Guislabert Gilbert Hug Hugh Jaume Jacob Joan John Jofr� Godfrey Ott Otto Pere Peter Pon�
+            Pon�-Hug Ramon Raymond Ramon-Berenguer Raymond-Berengar Ramon-Folc Roger Roger San� Sancho
+            Sunyer Sunyer Udalard Pons Guillem-Ramon
+        }
+        female_names = {
+            Isabel Juana Mar�a Catalina
+            Adelaida Adelaide Agn�s Agnes Alamanda Arsenda Arsenda Beatriu Beatrice Blanca Blanche
+            Brunisenda Constan�a Constance Dol�a Douce Elionor Eleanor Elisenda Ermessenda Ermesinda
+            Estefania Stephania Gueraua Guillelma Guisla Gisela Isabel Elisabeth Margarida Margaret
+            Maria Marquesa Marquise San�a Sancha Sibila Sibylla Teresa Teresa Toda Toda Violant Yolanda
+        }
+    }
+    catalan = {
+        country = { }
+        primary = CAT
+        dynasty_names = {
+            "d'Arag�" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
+            #CK2
+            "de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
+            "de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
+            Z��iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+            "de Cabrera" "de Villena"
+        }
+        male_names = {
+            Aar� Aaron Abelard Abraham Absal� Abundi Adalbert Adam Adri� Alaric Alb� Alb� Aleix �lvar �ngel Antoni Arnau
+            Artur Blai Carles Cecili Conrad Dari Dion�s Emili Enric Felip Ferran Franc�s Francesc Fructu�s Germ�
+            Gon�al Guillem Guiu Ignasi Israel Joan Jordi Josep Josep Maria Lle� Lluc Llu�s Macedoni M�rius Mart� Miquel
+            Octavi �scar Pau Pere Pol Pompeu Pr�sper Prudenci Prudenci� Quirze Rafael Ramir Ra�l Reginald Ricard Robert Roc
+            Rub�n Sergi Sim� Teodor Tom�s Vicen� Vicent Xavier
+        }
+        female_names = {
+            �gata �gueda Aina Anna Ant�nia Caterina Cec�lia Cristina Dolors Francesca Genoveva Isabel Joana Justina Laia
+            Montserrat N�ria Oct�via Prud�ncia Roberta Rodolfa
+        }
+    }
+    galician = {
+        country = { }
+        primary = GAL
+        dynasty_names = {
+            Osorio Andrade
+            #CK2
+            "de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"
+            "de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
+            Z��iga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+            "de Cabrera" "de Villena"
+        }
+        male_names = {
+            Garc�a Ordo�o Afonso Sancho Ramiro Bermudo Froila Aleixo Alvaro Anxo Baltasar Bernaldo Brais Carlos
+            Cristovo Domingos Estevo Felipe Fern�n Francisco Frederico Gonzalo Guillerme Gumersindo Henrique
+            Hermenexildo Hixinio Hugo Iago Ignacio Leandro Lope Miguel Nuno Od�n Paulo Pedro Ram�n Roi Tom�
+            Vitor Xoan Xorxe
+        }
+        female_names = {
+            Branca Iria Sabela L�a Rodolfa Sof�a Aldara Alduara Aldon�a Aldonza Beatriz Beatrice Bereng�ria Berengaria Branca
+            Blanche Ant�a Branca Carme Catarina Dores Iria L�a Margarida Mar�a Noela Rosal�a Sabela Ux�a Xoana
+        }
+    }
+    portugese = {
+        country = { }
+        primary = POR
+        dynasty_names = {
+            "de Aviz" "de Bragan�a" "de Crato" "d'Alburquerque" "de Portugal" "de Lencastre" "de Melo"
+            "de Moura" "de N�poles" "de Menezes" "de Saldanha"
+            #CK2
+            "da C�mara" "da Maia" "de Abrantes" "de Moura Barreto" "de Sousa"
+        }
+        male_names = {
+            Jo�o Filipe Afonso Pedro Ant�nio Duarte Henrique Jos� Manuel Sebasti�o Miguel Teod�sio Dinis
+            Alexandre Carlos Diego Jaime Lu�s �lvaro Andr� Bartolomeu Caetano Dami�o Estev�o Francisco
+            Xavier Gabriel Garcia Gaspar Gil Gon�alo Guilherme In�cio Joaquim Jorge Louren�o Marco Nicolau
+            Paulo Rafael Rog�rio Rui Sim�o Uriel Vicente Oct�vio
+            Afonso Alphonse Aires �lvaro Oliver Bermudo Vermudo Diogo Diaco Egas Est�v�o Stephen Fern�o
+            Ferdinand Fernando Ferdinand Garcia Garcia Gil Egidius Gomes Gomez Gon�alo Gonzalo Guterre
+            Walter Henrique Henry Herm�gio Jo�o John Lopo Lupo Louren�o Laurence Martim Martin Mem Mendo
+            Mendo Mendo Monio Munio Muno Munio Nuno Nuno Paio Pelagius Pedro Peter Pero Peter P�ncio
+            Rodrigo Roderick Rui Roderick Sancho Soeiro Suero Raimundo Raymond Vasco Vasco Vicente
+            Vincent Pons
+        }
+        female_names = {
+            Aldara Alduara Aldon�a Aldonza Beatriz Beatrice Bereng�ria Berengaria Branca Blanche
+            Constance D�rdia Elvira Elvira Estevainha Stephania Fruilhe Fronilde Gontinha Gontroda
+            Guiomar In�s Agnes Joana Joan Leonor Eleanor Mafalda Matilda Margarida Margaret Maria
+            Marinha Marine Mor Mayor Ouroana Sancha Sancha Teresa Teresa Urraca Urraca Gotruda Constan�a
+        }
+    }
+    brazilian = {
+        primary = BRZ
+        dynasty_names = {
+            "de Bragan�a" "de Camargo" "de Alburquerque" "de Vassouras" "de Noronha" "de Melo"
+            "de Moura" "de Medeiros" "de Menezes" "de Saldanha" "de Alencar"
+            #CK2
+            "da C�mara" "da Maia" "de Abrantes" "de Moura Barreto" "de Sousa" "de Guanabara" "de Oliveira"
+            "da Fonseca" "de Caxias"
+
+        }
+        male_names = {
+            Jo�o Filipe Pedro Ant�nio Duarte Henrique Jos� Manuel Sebasti�o Miguel Teod�sio Diniz
+            Alexandre Carlos Diego Jaime Lu�s �lvaro Andr� Bartolomeu Caetano Dami�o Estev�o Francisco
+            Xavier Gabriel Garcia Gaspar Gil Guilherme In�cio Joaquim Jorge Louren�o Marco Nicolau
+            Paulo Rafael Rog�rio Rui Sim�o Vicente Ot�vio
+            Afonso Aires �lvaro Bermudo Diogo Diaco Egas Est�v�o Fern�o
+            Ferdinando Fernando Garcia Gil Gomes Gon�alo Gutierre
+            Valter Henrique Herm�gio Jo�o Louren�o Martim Martin
+            Mendo Munio Nuno P�ncio Mem
+            Rodrigo Rui Raimundo Vasco Vicente
+
+            Moacir Ca�que Ubirajara Ubirat� Joacir Domingos Quintino Deodoro Eduardo Em�lio Castro Pascoal
+            Moreira Cl�udio Dirceu Evandro Tom� Amado Silv�rio Bas�lio Cipriano Amaro Cosme J�lio Lucas
+            Severino Severiano Benjamim Epaminondas Seixas Torquato Ant�nio Get�lio Silveriano Br�s
+
+
+        }
+        female_names = {
+            Aldara Alduara Beatriz Bereng�ria Branca
+            Const�ncia Elvira Estev�nia Fruilhe Fronilde Gontinha Gontroda
+            Guiomar In�s Agnes Joana Leonor Eleanor Mafalda Matilda Margarida Maria
+            Marinha Marin�s Ouroana Teresa Urraca Constan�a C�lia
+
+            Maiara Jana�na Iara Tainara Iracema Mariana B�rbara Josefina Ana "Ana Paula" Aur�lia
+            Adelaide Firmina Em�lia Cec�lia Lauriana Isabel
+        }
+    }
+    
+    # French cultures
+    graphical_culture = westerngfx
+    # Merge french with  norman and burgundian and walloon
+     cosmopolitan_french = {
+
+         primary = FRA
+         dynasty_names = {
+             "de Valois" "de Bourbon" Bonaparte "de la Tour" "d'Anjou"
+             "de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+             "de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville"
+         }
+     }
+    # Merge it with gascon
+     occitain = {
+
+         primary = PRO
+     }
+     arpitan = {
+        # No one actually has it as primary
+     }
+     louisianans = {
+
+         primary = LOU
+     }
+     quebecois = {
+
+         primary = QUE
+     }
+     anglois = {
+         primary = AVE
+         dynasty_names = {
+             Plantagenet Lancaster York Tudor Dudley Mowbray Beaufort Neville Percy Howard Seymour Holland
+             Talbot Stanley Courtenay "de la Pole" "de Vere" Stafford Grey Mortimer "le Despenser" "de Camoys"
+             "Oglethorpe" Hyde
+             # CKII
+             "Turberville" "Butler" "Montagu" "Beauchamp" "Raleigh" "Stratford"
+         }
+         male_names = {
+             Henry Edward Charles James William Richard Philip Henry Frederick Arthur Charles James Edgar Thomas Edmund
+             George John Jacob Humphrey Robert Stephen Adam Alexander Albert Alfred Ambrose Andrew Anthony Archibald
+             Benjamin Christopher Daniel David Ernest Francis Geoffrey Guy Horatio Hugh Isaac Jeremy Jonathan Joseph
+             Lawrence Matthew Nehemiah Oliver Samuel Sydney
+
+             Adam Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Christopher David
+             Edmund Edward Eric Erik Eustace Fulk Folke Geoffrey George Gerald Gilbert Godfrey Gregory Guy
+             Henry Hugh Humphrey Jocelyn John Jordan Laurence Lionel Mark Marcus Martin Matthew Maurice
+             Michael Nicholas Paul Peter Philip Ralph Randolph Reginald Richard Robert Roger Simon Stephen
+             Theobald Thomas Waleran Walter William Jacob Ambrose Anthony Archibald Benjamin Daniel Ernest
+             Francis Horatio Isaac Jeremy Jonathan Joseph Lawrence Nehemiah Oliver Samuel Sydney
+         }
+         female_names = {
+             Jane Adela Adelaide Alice Amice Anne Anna Aveline Avelina Beatrice Blanche Catherine Cecilia
+             Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel Isabella Elisabeth Joan Joanna
+             Juliana Mahaut Margaret Mary Maria Maud Matilda Philippa Sybilla Sibylla
+         }
+     }
+     dynasty_names = {
+         "de Valois" "de Bourbon" "de la Tour" "d'Anjou"
+         "de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+         "de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+         "de Castellane" "d'Auvergne" "de Montb�liard" "de Metz"
+         #CKII Frankish
+         "de Laval" "de la Tour du Pin" "de La Tr�moille" "de Cr�quy" "de Broglie"
+         "de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+         "de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+         "de Barrau" "de La Fayette" "d'Armagnac" "de Roug�" "du Quenoy" "de Ficquelmont"
+         "de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+         "de Vaudemont" "de Nicola�"
+     }
+     male_names = {
+         �douard �rrard �tienne Ad�mar Adrien Aimery Alain
+         Aldebert Ald�ric Alphonse Amaury Am�d�e Ancel Andr� Antoine Archambaud Arnaud
+         Arnault Arnoul Aubry Aymar Barth�l�mi Baudouin Beno�t B�renger Bernard Bertrand Bohemond
+         Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques Fran�ois
+         Fr�d�ric Gaucher Gaucelin Gauthier Geoffroi G�raud Gilbert Gilles Godefroi
+         Guichard Guiges Guilhem Guillaume Guy H�lie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques
+         Jaufr� Jaspert Jean Jourdain Julien L�on L�onard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+         Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thi�baut
+         Thierry Thomas Valeran Yves
+     }
+     female_names = {
+         �l�onore �lodie �tiennette Ad�le Adalmode Adelaide Adelinde
+         Agn�s Al�arde Alice Ali�nor Agathe
+         Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde
+         B�atrice B�atrix Belleassez Beno�te B�reng�re
+         Berthe Blanche Bonne Bourgogne Bourguigne C�cile Cath�rine
+         Charlotte Constance Denise Douce Echive Eglantine
+         Elisabeth Emma Ermengarde Ermessinde Esclarmonde
+         Euphrosine Eustachie Eve Gerberge Gis�le Guillaumette H�loise Helvis Hodierne Ide Ild�garde
+         Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
+         Mascarose Mathilde M�lisande M�lisende M�lusine P�ronelle Pernelle Perinne Pernette Plaisance
+         Raymonde Sarrazine Sol�ne Sophie St�phanie Sybille Tiburge Valence Yolande
+     }
+
+    # Romanian
+    # Romanian + Transylvanian
+     romanian = {
+          primary = WAL
+          dynasty_names = {
+              "Basarab" "Danesti" "Draculesti"
+              Callimachi Ghica Cantacuzino Cantemiresti Racovita Caradja Sturdza
+              Conachi Soutzos Golescu Vacarescu Mavrocordatos Craiovesti H�jdau
+              Kogalniceanu Movilesti
+          }
+          male_names = {
+              Alexandru Radu Vlad Constantin Mihail Mircea George Grigore Mihnea Nicolae Besarab Vladislav Mattia
+              Radu Ilias Scarlat Stefan Dan Alexandru Ilias Gabriel Ioan George Leon Moise Neagoie Besarab
+              Leon Radu Mihnea Serban Simeon Teodosiu Vintila Vladut Milos Corneliu Flaviu Iuliu Octavian Sergiu
+              Valeriu Petru Petrascu Radu
+              Adrian Alexandru Alexander Anghel Angel Aron Bajan Balc Barbat Basarab Bogdan Bogdan Carol
+              Ciprian Ciubar Claudiu
+              Corneliu Cornelius Costin Damjan Dan Dragos Dumitru Emerik Florin Franjo Francis Gavril
+              Gheorghe George Grigore Gregory Iacob Gabriel
+              Iancu Ieremia Ilie Ioan John Iorghu Iosif Iuga Janos John Ladislau Latcu Laurentiu Laurence
+              Litovoi Lucian Lucius Marin Marius
+              Mihai Milos Milosz Mircea Moise Nicolaie Petre Pirvu Radovan Radu Roman Sas Seneslav
+              Sergiu Simion Simon
+              Stefan Stephen Stelian Teodor Theodore Tepes Tibor Tihomir Timotei Tudor Thierry Valentin
+              Valentin Valeriu Vasile Basil Veaceslav
+              Victor Vilhelm William Vintila Vlad
+          }
+          female_names = {
+              Adelina Adriana Afina Alexandra Alexia Ana Anna Anastasia Anastasia Angela Arina Christina
+              Christina Clara Clara Dana Ecatarina Catherine
+              Elena Helen Elisabeta Elisabeth Emilia Emily Eufroysina Euphrosyne Felicia Floarea Flora
+              Ioana Ionela Irina Iulia Juliana Maria Maria Monica Iacoba
+              Natalia Olimpia Paraschiva Petra Roxana Ruxandra Smaranda Sophia Sophia Stana Stefana
+              Stefania Stephania Teodora Rahela Flavia Cosmina
+              Tereza Teresa Vasilica Violeta Yolanda Voica Zina
+          }
+      }
+
+      # Italian
+      tuscan = {
+           primary = TUS
+       }
+       sardinian = {
+           primary = SAR
+       }
+       # Romangol + Ligurian + Lombard + Piedmontese
+       "gallo-italic" = {
+        primary = MLO
+       }
+       umbrian = {
+        primary = PAP
+       }
+       # Venetian
+       venetian = {
+        primary = VEN
+       }
+       # Neapolitan + Sicilian
+       neapolitan = {
+        primary = NAP
+       }
+       dalmatian = {
+        primary = RAG
+       }
+}
