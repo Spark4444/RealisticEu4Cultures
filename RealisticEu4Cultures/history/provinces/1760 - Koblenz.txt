@@ -1,6 +1,6 @@
 owner = TRI
 controller = TRI
-culture = high-german
+culture = "high-german"
 religion = catholic
 trade_goods = grain
 capital = "Koblenz"

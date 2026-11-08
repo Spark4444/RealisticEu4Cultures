@@ -3,7 +3,7 @@
 owner = TEU
 controller = TEU
 capital = "Ortelsburg"
-culture = low-german
+culture = pruthenian
 religion = catholic
 trade_goods = naval_supplies
 hre = no
@@ -24,7 +24,7 @@ discovered_by = ottoman
 	controller = PRU
 	remove_core = TEU
 	remove_core = POL
-	religion = protestant
+religion = catholic
 } # Albert of Prussia became a protestant
 1618.8.28 = {
 	owner = BRA

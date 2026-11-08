@@ -3,7 +3,7 @@
 owner = HSA
 controller = HSA
 add_core = HSA
-culture = low-german
+culture = "low-german"
 religion = catholic
 hre = yes
 base_tax = 7

@@ -6,7 +6,7 @@ latent_trade_goods = {
 
 owner = SAX
 controller = SAX 
-culture = high-german
+culture = "high-german"
 religion = catholic
 capital = "Leipzig"
 trade_goods = wool

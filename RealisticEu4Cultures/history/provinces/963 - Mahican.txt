@@ -21,7 +21,7 @@ discovered_by = north_american
 	owner = NED 
 	controller = NED
 	add_core = NED
-	culture = low-german
+	culture = "low-german"
 	religion = reformed
 	trade_goods = fur
 } # Dutch settlers

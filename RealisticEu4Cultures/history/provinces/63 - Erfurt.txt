@@ -2,7 +2,7 @@
 
 owner = THU
 controller = THU
-culture = high-german
+culture = "high-german"
 religion = catholic
 capital = "Erfurt"
 trade_goods = dyes #Woad, also a center for glassmaking

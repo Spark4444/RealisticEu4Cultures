@@ -2,7 +2,7 @@
 owner = ULM
 controller = ULM
 add_core = ULM
-culture = high-german
+culture = "high-german"
 religion = catholic
 base_tax = 5 
 base_production = 6

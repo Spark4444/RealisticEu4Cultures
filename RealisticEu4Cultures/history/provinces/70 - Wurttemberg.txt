@@ -1,4 +1,4 @@
-culture = high-german
+culture = "high-german"
 owner = WUR
 controller = WUR
 add_core = WUR

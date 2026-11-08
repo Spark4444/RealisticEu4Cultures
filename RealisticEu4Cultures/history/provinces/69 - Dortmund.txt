@@ -1,5 +1,5 @@
 # 69 - Dortmund
-culture = low-german
+culture = "low-german"
 owner = RVA
 controller = RVA
 add_core = RVA

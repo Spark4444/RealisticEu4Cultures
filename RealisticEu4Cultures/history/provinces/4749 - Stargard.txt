@@ -3,7 +3,7 @@
 owner = MKL
 controller = MKL
 add_core = MKL
-culture = low-german
+culture = "low-german"
 religion = catholic
 hre = yes
 base_tax = 3

@@ -3,7 +3,7 @@
 owner = ING
 controller = ING
 add_core = ING
-culture = high-german
+culture = "high-german"
 religion = catholic
 base_tax = 5 
 base_production = 5

@@ -2,7 +2,7 @@
 owner = AUG
 controller = AUG
 add_core = AUG
-culture = high-german
+culture = "high-german"
 religion = catholic
 base_tax = 7 
 base_production = 6

@@ -22,7 +22,7 @@ native_hostileness = 4
 	owner = NED
 	controller = NED
 	add_core = NED
-	culture = low-german
+	culture = "low-german"
 	religion = reformed
 	is_city = yes
 	trade_goods = sugar
@@ -40,7 +40,7 @@ native_hostileness = 4
 	controller = NED
 	add_core = NED
 	remove_core = SPA
-	culture = low-german
+	culture = "low-german"
 	religion = reformed
 } # Several attempts were made by the Dutch to reclaim the city, finally Spain gave up 
 1810.7.10 = {

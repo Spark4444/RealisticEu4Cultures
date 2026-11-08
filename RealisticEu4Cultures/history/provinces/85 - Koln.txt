@@ -3,7 +3,7 @@
 owner = KOL
 controller = KOL
 add_core = KOL
-culture = high-german
+culture = "high-german"
 religion = catholic
 trade_goods = paper
 capital = "K�ln"

@@ -1,6 +1,6 @@
 # 1876 - Frankfurt
 capital = "Frankfurt"
-culture = high-german
+culture = "high-german"
 religion = catholic
 trade_goods = paper
 owner = FRN

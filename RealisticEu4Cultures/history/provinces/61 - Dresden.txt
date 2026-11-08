@@ -2,7 +2,7 @@
 
 owner = MEI
 controller = MEI
-culture = high-german
+culture = "high-german"
 religion = catholic
 capital = "Meissen"
 trade_goods = iron

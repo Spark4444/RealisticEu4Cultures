@@ -2,7 +2,7 @@
 
 owner = MUN
 controller = MUN
-culture = low-german
+culture = "low-german"
 religion = catholic
 trade_goods = cloth
 capital = "M�nster"

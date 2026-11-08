@@ -1,7 +1,7 @@
 owner = KLE
 controller = KLE
 add_core = KLE
-culture = high-german
+culture = "high-german"
 religion = catholic
 trade_goods = cloth
 capital = "Kleves"

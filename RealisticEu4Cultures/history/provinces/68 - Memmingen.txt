@@ -3,7 +3,7 @@
 owner = MEM
 controller = MEM
 add_core = MEM
-culture = high-german
+culture = "high-german"
 religion = catholic
 hre = yes
 base_tax = 5

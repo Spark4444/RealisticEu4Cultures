@@ -32,7 +32,7 @@ native_hostileness = 2
 1633.1.1 = {	owner = NED
 	controller = NED
 	add_core = NED
-	culture = low-german
+	culture = "low-german"
 	religion = reformed
 } # The battleground between the Dutch & the Portugese, under Dutch rule
 1645.1.1 = { unrest = 7 } # Religious confrontations between the Portugese-Brazilian and the Dutch Calvinists

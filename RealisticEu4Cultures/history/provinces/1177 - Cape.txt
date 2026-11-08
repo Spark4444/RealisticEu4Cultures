@@ -20,7 +20,7 @@ center_of_trade = 1
 	owner = NED
 	controller = NED
 	religion = reformed
-	culture = low-german	
+	culture = "low-german"	
 	is_city = yes
 	capital = "Cape Town"
 } # Dutch settlement

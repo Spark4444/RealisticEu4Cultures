@@ -2,7 +2,7 @@
 
 owner = BRU
 controller = BRU
-culture = low-german
+culture = "low-german"
 religion = catholic
 capital = "Hannover"
 trade_goods = cloth

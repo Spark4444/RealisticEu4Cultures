@@ -3,7 +3,7 @@
 owner = SAX
 controller = SAX
 add_core = SAX
-culture = high-german
+culture = "high-german"
 religion = catholic
 hre = yes
 base_tax = 2

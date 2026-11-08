@@ -35,7 +35,7 @@ native_hostileness = 3
 	controller = NED
 	add_core = NED
 	capital = "Frederikstad"
-	culture = low-german
+	culture = "low-german"
 	religion = reformed
 } # Dutch occupation
 1645.1.1 = { unrest = 7 } # Religious confrontations between the Portugese-Brazilian and the Dutch Calvinists

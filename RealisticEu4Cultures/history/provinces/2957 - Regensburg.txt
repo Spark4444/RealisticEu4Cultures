@@ -3,7 +3,7 @@
 owner = REG
 controller = REG
 add_core = REG
-culture = high-german
+culture = "high-german"
 religion = catholic
 base_tax = 5
 base_production = 5

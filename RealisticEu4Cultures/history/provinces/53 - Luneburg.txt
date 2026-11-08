@@ -3,7 +3,7 @@
 owner = LUN
 controller = LUN
 add_core = LUN
-culture = low-german
+culture = "low-german"
 religion = catholic
 capital = "L�neburg"
 trade_goods = salt

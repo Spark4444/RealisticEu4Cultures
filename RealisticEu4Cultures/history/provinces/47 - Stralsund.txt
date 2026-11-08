@@ -3,7 +3,7 @@
 owner = WOL
 controller = WOL
 add_core = WOL
-culture = low-german
+culture = "low-german"
 religion = catholic
 hre = yes
 base_tax = 2 

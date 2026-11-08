@@ -1,7 +1,7 @@
 # 4767 - Zweibr�cken
 
 capital = "Zweibr�cken"
-culture = high-german
+culture = "high-german"
 religion = catholic
 trade_goods = cloth
 owner = PAL

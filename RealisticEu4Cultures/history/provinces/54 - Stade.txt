@@ -2,7 +2,7 @@
 
 owner = VER
 controller = VER
-culture = low-german
+culture = "low-german"
 religion = catholic
 capital = "Stade"
 trade_goods = fish

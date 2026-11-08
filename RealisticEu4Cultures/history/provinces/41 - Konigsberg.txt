@@ -3,7 +3,7 @@
 owner = TEU
 controller = TEU
 capital = "K�nigsberg"
-culture = low-german
+culture = pruthenian
 religion = catholic
 trade_goods = gems #Amber
 hre = no
@@ -29,7 +29,7 @@ center_of_trade = 1
 	remove_core = TEU
 	remove_core = POL
 	trade_goods = paper #Lack of demand for amber after reformation + increasing growth of the paper industry in Ducal Prussia
-	religion = protestant
+religion = catholic
 } # Albert of Prussia became a protestant
 1618.8.28 = {
 	owner = BRA

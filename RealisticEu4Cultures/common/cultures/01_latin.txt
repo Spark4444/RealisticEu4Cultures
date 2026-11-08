@@ -250,7 +250,7 @@ latin = {
          primary = PRO
      }
      arpitan = {
-        # No one actually has it as primary
+        primary = GNV
      }
      louisianans = {
 

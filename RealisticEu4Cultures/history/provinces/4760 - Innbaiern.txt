@@ -3,7 +3,7 @@
 owner = LBV
 controller = LBV
 add_core = LBV
-culture = high-german
+culture = "high-german"
 religion = catholic
 base_tax = 3
 base_production = 3

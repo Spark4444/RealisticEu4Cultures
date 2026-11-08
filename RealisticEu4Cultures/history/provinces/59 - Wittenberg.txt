@@ -2,7 +2,7 @@
 
 owner = SAX
 controller = SAX
-culture = high-german
+culture = "high-german"
 religion = catholic
 capital = "Wittenberg"
 trade_goods = wool

@@ -3,7 +3,7 @@
 owner = SHL
 controller = SHL
 add_core = SHL
-culture = low-german
+culture = "low-german"
 religion = catholic
 hre = yes
 base_tax = 4

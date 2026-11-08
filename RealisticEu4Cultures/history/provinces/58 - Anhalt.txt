@@ -2,7 +2,7 @@
 
 owner = ANH
 controller = ANH 
-culture = high-german
+culture = "high-german"
 religion = catholic
 capital = "Dessau"
 trade_goods = wool

@@ -1,7 +1,7 @@
 #77 - Heidelberg
 
 capital = "Heidelberg"
-culture = high-german
+culture = "high-german"
 religion = catholic
 trade_goods = wine
 owner = PAL
